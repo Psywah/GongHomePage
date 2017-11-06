@@ -1,14 +1,14 @@
 +++
-date = 2100-01-01T00:00:00  # Schedule page publish date.
+date = 2015-01-01T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
-abstract = ""
+title = "A Hybridizable Mixed Finite Element Method for Planar Linear Elasticity"
+time_start = 2015-08-10T13:00:00
+time_end = 2015-08-14T15:00:00
+abstract = "Recently, Hu and Zhang proposed a family of high order mixed finite elements for linear elasticity on simplicial mesh of any space dimension. In this talk, we consider some lower order mixed finite elements method with symmetric stress approximation. The optimal convergence rate can be proved both for the stress and displacement. We also proposed an efficient implement technique for our method to reduce the dimension of the linear system."
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "The 8th International Congress on Industrial and Applied Mathematics"
+event_url = "http://www.iciam2015.cn/"
+location = "Beijing, China"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -20,7 +20,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "/files/slide/iciam2015.pdf"
 url_video = ""
 url_code = ""
 

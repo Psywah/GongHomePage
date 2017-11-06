@@ -4,7 +4,7 @@ widget = "talks"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent & Upcoming Talks"
+title = "Oral/Poster Presentations"
 subtitle = ""
 
 # Order that this section will appear in.

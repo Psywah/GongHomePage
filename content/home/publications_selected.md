@@ -4,7 +4,7 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
-date = 2016-04-20
+date = 2020-04-20
 
 title = "Selected Publications"
 subtitle = ""
@@ -17,7 +17,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 0
 
 # Filter by publication type.
 # -1: Any

@@ -1,14 +1,14 @@
 +++
-date = 2100-01-01T00:00:00  # Schedule page publish date.
+date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "A Nonlinear Elimination Preconditioned Newton’s Method for Hyperelasticity"
+time_start = 2017-06-14T00:00:00
+time_end = 2017-06-16T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "PETSc USER MEETING 2017"
+event_url = "http://www.mcs.anl.gov/petsc/meetings/2017/index.html"
+location = "Boulder, CO, USA"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -19,7 +19,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/poster/2017NE-IN-poster.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""

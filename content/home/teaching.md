@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2017-11-01T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -15,14 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+- Teaching Assistant, Introduction to Fluid Mechanics, Peking University, Mar. 2015 - Jul. 2015
+- Teaching Assistant, Functions of Real Variable and Functional Analysis, Peking University, Sept. 2014 -
+Jan. 2015
+- Teaching Assistant, Linear Algebra, Peking University, Mar. 2014 - Jul. 2014
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science

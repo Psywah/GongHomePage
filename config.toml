@@ -1,6 +1,6 @@
 baseurl = "https://psywah.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+title = "Shihua Gong's Homepage"
+copyright = "&copy; 2017 Shihua Gong"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -12,7 +12,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-109260186-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -25,34 +25,34 @@ defaultContentLanguageInSubdir = false
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  hrefTargetBlank = false  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, or `coffee`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Shihua Gong"
+  role = "Ph.D. candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Peking University", url = "http://pku.edu.cn" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "" #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "s.gong@pku.edu.cn"
+  address = "Quanzhai 16, Peking Univeristy, Beijing, China"
+  office_hours = "" # "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+86 178 8880 4563"
+  skype = "civar@live.cn"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -104,7 +104,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -205,22 +205,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:s.gong@pku.edu.cn"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "weibo"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://weibo.com/1763828833"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://researchgate.net/profile/Shihua_Gong"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/psywah"
 
 
 # Navigation Links
@@ -235,18 +235,18 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Gallery"
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Gallery"
+#  url = "#gallery"
+#  weight = 4
 
 [[menu.main]]
   name = "Teaching"
@@ -257,6 +257,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "CV"
+  url = "/files/cv.pdf"
+  weight = 100
 
 # Taxonomies.
 [taxonomies]
