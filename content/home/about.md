@@ -36,7 +36,7 @@ weight = 5
 
 # Biography
 
-Shihua Gong is a Ph.D. candidate of computational mathematics at  <a href="http://bicmr.pku.edu.cn">BICMR</a>. His supervisor is Prof. <a href="http://math.psu.edu/xu">Jinchao Xu</a>. His research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton's methods. Now he is working on the numerical methods for cardivascular fluid-struture interation simulations.
+I am a Ph.D. candidate of computational mathematics at  <a href="http://bicmr.pku.edu.cn">BICMR</a>. My supervisor is Prof. <a href="http://math.psu.edu/xu">Jinchao Xu</a>. My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton's methods. Now I am working on the numerical methods and the simulations for cardivascular fluid-structure interation.
 
 
 
