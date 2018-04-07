@@ -17,8 +17,7 @@ authors = ["Shihua Gong", "Xiao-Chuan Cai"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted to 15th Copper Mountain Conference On Iterative Methods (Student Paper
-Competition)"
+publication = "submitted to 15th Copper Mountain Conference On Iterative Methods (Student Paper Competition)"
 publication_short = ""
 
 # Abstract and optional shortened version.
