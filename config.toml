@@ -1,6 +1,6 @@
 baseurl = "http://shihua-gong.org/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Shihua Gong's Homepage"
-copyright = "&copy; 2017 Shihua Gong"
+copyright = "&copy; 2018 Shihua Gong"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -40,20 +40,21 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Shihua Gong"
-  role = "Ph.D. candidate"
+  role = "Postdoctoral Scholar"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Peking University", url = "http://pku.edu.cn" } ]
+  organizations = [ { name = "Penn State University", url = "http://psu.edu" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "" #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "s.gong@pku.edu.cn"
-  address = "Quanzhai 16, Peking Univeristy, Beijing, China"
-  office_hours = "" # "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+86 178 8880 4563"
-  skype = "civar@live.cn"
+  email = "sug246@psu.edu"
+  address = "316 McAllister Building"
+  office_hours =  "Tu&Th 3:00 to 4:00pm or email for appointment"
+  phone = "+1 814 699 2380"
   telegram = ""
+  
+  # skype = "civar@live.cn"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -81,10 +82,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "40.797862"
+  longitude = "-77.862122"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -205,7 +206,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:s.gong@pku.edu.cn"
+    link = "mailto:sug246@psu.edu"
 
   [[params.social]]
     icon = "weibo"

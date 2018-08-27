@@ -36,7 +36,10 @@ weight = 5
 
 # Biography
 
-I am a Ph.D. candidate in computational mathematics at  <a href="http://bicmr.pku.edu.cn">BICMR</a>. My advisors are Prof. <a href="http://math.psu.edu/xu">Jinchao Xu</a> and Prof. Jun Hu. My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working on the numerical methods and the simulations for cardiovascular fluid-structure interaction.
+
+# My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working on the numerical methods and the simulations for cardiovascular fluid-structure interaction.
+
+
 
 
 
