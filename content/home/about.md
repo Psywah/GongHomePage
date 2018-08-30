@@ -35,9 +35,7 @@ weight = 5
 +++
 
 # Biography
-
-
-# My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working on the numerical methods and the simulations for cardiovascular fluid-structure interaction.
+My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working on the numerical methods and the simulations for cardiovascular fluid-structure interaction.
 
 
 

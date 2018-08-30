@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   avatar = "" #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sug246@psu.edu"
   address = "316 McAllister Building"
-  office_hours =  "Tu&Th 3:00 to 4:00pm or email for appointment"
+  office_hours = ""# "Tu&Th 3:00 to 4:00pm or email for appointment"
   phone = "+1 814 699 2380"
   telegram = ""
   
