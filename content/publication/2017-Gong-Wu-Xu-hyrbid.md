@@ -17,8 +17,8 @@ authors = ["Shihua Gong", "Shuonan Wu", "Jinchao Xu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted"
-publication_short = ""
+publication = "Numerische Mathematik"
+publication_short = "Numer. Math."
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we present a family of new mixed finite element methods for linear elasticity for both spatial dimensions $n=2,3$, which yields a conforming and strongly symmetric approximation for stress. Applying $\\mathcal{P}_{k+1}-\\mathcal{P}_k$ as the local approximation for the stress and displacement, the mixed methods achieve the optimal order of convergence for both the stress and displacement when $k \\ge n$.  For the lower order case $(n-2\\le k<n)$, the stability and convergence still hold on some special grids. The proposed mixed methods are efficiently implemented by hybridization, which imposes the inter-element normal continuity of the stress by a Lagrange multiplier. Then, we develop and analyze multilevel solvers for the Schur complement of the hybridized system in the two dimensional case. Provided that no nearly singular vertex on the grids, the proposed solvers are proved to be uniformly convergent with respect to both the grid size and Poisson's ratio. Numerical experiments are provided to validate our theoretical results."
@@ -37,8 +37,8 @@ selected = true
 projects = [] #["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1704.07540.pdf" 
+url_pdf = "https://link.springer.com/epdf/10.1007/s00211-018-1001-3?author_access_token=QLXWeuylGAMq_k-Cxm3G4fe4RwlQNchNByi7wbcMAY59HHe4eHxuMxlnOy1_TGAYg5sBCLrfwuZhPn0k5YioanFLW2NBONBNSwYYV2_oLccXX-AXaYuguCf8RrjueEv0me8fp6DLosuLzJFSfJRM2A%3D%3D"
+url_preprint = "" 
 url_code = ""
 url_dataset = ""
 url_project = ""

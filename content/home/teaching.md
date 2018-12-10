@@ -15,6 +15,7 @@ weight = 60
 
 +++
 
+- Teaching Assistant, Finite Element Methods, Pennsylvania State University, Aug. 2018 - Dec. 2018
 - Teaching Assistant, Introduction to Fluid Mechanics, Peking University, Mar. 2015 - Jul. 2015
 - Teaching Assistant, Functions of Real Variable and Functional Analysis, Peking University, Sept. 2014 -
 Jan. 2015

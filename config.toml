@@ -1,5 +1,5 @@
 baseurl = "http://shihua-gong.org/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Shihua Gong's Homepage"
+title = "Shihua Gong's Homepage (龚世华)"
 copyright = "&copy; 2018 Shihua Gong"
 theme = "academic"
 enableEmoji = true
