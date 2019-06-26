@@ -40,18 +40,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Shihua Gong"
-  role = "Postdoctoral Scholar"
+  role = "Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Penn State University", url = "http://psu.edu" } ]
+  organizations = [ { name = "University of Bath", url = "http://bath.ac.uk" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "" #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sug246@psu.edu"
-  address = "316 McAllister Building"
+  email = "sg2328@bath.ac.uk"
+  address = "4W 3.35"
   office_hours = ""# "Tu&Th 3:00 to 4:00pm or email for appointment"
-  phone = "+1 814 699 2380"
+  phone = "" #"+1 814 699 2380"
   telegram = ""
   
   # skype = "civar@live.cn"
@@ -84,8 +84,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "40.797862"
-  longitude = "-77.862122"
+  latitude = "51.379894"
+  longitude = "-2.327964"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -206,12 +206,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sug246@psu.edu"
+    link = "mailto:sg2328@bath.ac.uk"
 
-  [[params.social]]
-    icon = "weibo"
-    icon_pack = "fa"
-    link = "https://weibo.com/1763828833"
+  # [[params.social]]
+  #  icon = "weibo"
+  #  icon_pack = "fa"
+  #  link = "https://weibo.com/1763828833"
 
   [[params.social]]
     icon = "researchgate"
@@ -261,8 +261,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-#  url = "/files/cv.pdf"
-  url= ""
+  url = "/files/cv.pdf"
   weight = 100
 
 # Taxonomies.

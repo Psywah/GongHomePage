@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Cardiovascular fluid-structure interaction",
     "scientific computing and computer simulation",
     "linearly and nonlinearly preconditioning techniques",
     "finite element methods and scalable solvers",
@@ -19,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computational Mathematics"
-  institution = "Peking University"
+  institution = "Peking University, Advisor: Jinchao Xu"
   year = 2018
 
 [[education.courses]]
@@ -32,13 +31,11 @@ weight = 5
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
  
+##   (<a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S003975/1" > EPSRC EP/S003975/1</a>).
+
 +++
 
 # Biography
-My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working on the numerical methods and the simulations for cardiovascular fluid-structure interaction.
-
-
-
-
+My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working with <a href="http://people.bath.ac.uk/masigg/"> Ivan Graham</a> and <a href="http://people.bath.ac.uk/eas25/">Euan Spence</a> on fast solvers for frequency-domain wave-scattering problems.
 
 
