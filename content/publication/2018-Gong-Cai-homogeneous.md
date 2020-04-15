@@ -14,10 +14,10 @@ authors = ["Shihua Gong", "Xiao-Chuan Cai"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted to 15th Copper Mountain Conference On Iterative Methods (Student Paper Competition)"
+publication = "SISC"
 publication_short = ""
 
 # Abstract and optional shortened version.
