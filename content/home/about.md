@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computational Mathematics"
-  institution = "Peking University, Advisor: Jinchao Xu"
+  institution = "Peking University"
   year = 2018
 
 [[education.courses]]
