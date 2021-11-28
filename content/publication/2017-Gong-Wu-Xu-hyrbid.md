@@ -1,6 +1,6 @@
 +++
 title = "New Hybridized Mixed Methods for Linear Elasticity and Optimal Multilevel Solvers"
-date = "2017-05-27"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shihua Gong", "Shuonan Wu", "Jinchao Xu"]
@@ -37,7 +37,7 @@ selected = true
 projects = [] #["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/epdf/10.1007/s00211-018-1001-3?author_access_token=QLXWeuylGAMq_k-Cxm3G4fe4RwlQNchNByi7wbcMAY59HHe4eHxuMxlnOy1_TGAYg5sBCLrfwuZhPn0k5YioanFLW2NBONBNSwYYV2_oLccXX-AXaYuguCf8RrjueEv0me8fp6DLosuLzJFSfJRM2A%3D%3D"
+url_pdf = "https://doi.org/10.1007/s00211-018-1001-3"
 url_preprint = "" 
 url_code = ""
 url_dataset = ""

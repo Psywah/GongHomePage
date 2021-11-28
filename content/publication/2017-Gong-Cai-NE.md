@@ -28,7 +28,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,7 +36,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "/files/paper-draft/2017NE4Hyperelasticity.pdf"
+url_pdf = "https://link.springer.com/content/pdf/10.1007/978-3-319-93873-8_33.pdf"
 url_preprint = "" 
 url_code = "https://github.com/Psywah/anisotropy-elasticity"
 url_dataset = ""

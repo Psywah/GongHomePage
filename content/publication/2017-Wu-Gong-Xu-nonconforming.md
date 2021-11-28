@@ -21,7 +21,7 @@ publication = "Mathematical Models and Methods in Applied Sciences"
 publication_short = "M3AS"
 
 # Abstract and optional shortened version.
-abstract = "We propose two classes of mixed finite elements for linear elasticity of any order, with interior penalty for nonconforming symmetric stress approximation. One key point of our method is to introduce some appropriate nonconforming face-bubble spaces based on the local decomposition of discrete symmetric tensors, with which the stability can be easily established. We prove the optimal $L^2$ error estimate for displacement and optimal $H_h({\rm div})$ error estimate for stress by adding an interior penalty term. The elements are easy to be implemented thanks to the explicit formulations of its basis functions. Moreover, the method can be applied to arbitrary simplicial grids for any spatial dimension in a unified fashion. Numerical tests for both 2D and 3D are provided to validate our theoretical results."
+abstract = "We propose two classes of mixed finite elements for linear elasticity of any order, with interior penalty for nonconforming symmetric stress approximation. One key point of our method is to introduce some appropriate nonconforming face-bubble spaces based on the local decomposition of discrete symmetric tensors, with which the stability can be easily established. We prove the optimal $L^2$ error estimate for displacement and optimal $H_h({\\rm div})$ error estimate for stress by adding an interior penalty term. The elements are easy to be implemented thanks to the explicit formulations of its basis functions. Moreover, the method can be applied to arbitrary simplicial grids for any spatial dimension in a unified fashion. Numerical tests for both 2D and 3D are provided to validate our theoretical results."
 
 
 abstract_short = ""
@@ -38,7 +38,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://www.worldscientific.com/doi/abs/10.1142/S0218202517500567" 
+url_pdf = "https://doi.org/10.1142/S0218202517500567"
 url_preprint =""
 url_code = ""
 url_dataset = ""

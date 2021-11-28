@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -37,7 +37,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0170807&type=printable"
+url_pdf = "https://doi.org/10.1371/journal.pone.0170807"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

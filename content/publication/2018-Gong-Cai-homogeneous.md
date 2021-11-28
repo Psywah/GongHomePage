@@ -1,6 +1,6 @@
 +++
 title = " A Nonlinear Elimination Preconditioned Inexact Newton Method for Heterogeneous Hyperelasticity"
-date = "2018-01-09"
+date = "2019-01-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shihua Gong", "Xiao-Chuan Cai"]
@@ -17,8 +17,8 @@ authors = ["Shihua Gong", "Xiao-Chuan Cai"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "SISC"
-publication_short = ""
+publication = "SIAM Journal Scientific. Computing"
+publication_short = "SIAM J. Sci. Comp.."
 
 # Abstract and optional shortened version.
 abstract = "We propose and study a nonlinear elimination preconditioned inexact Newton method for the numerical simulation of diseased human arteries with a heterogeneous hyperelastic model. We assume the artery is made of layers of distinct tissues and also contains plaques. Traditional Newton methods often work well for smooth and homogeneous arteries, but suffer from slow or no convergence due to the heterogeneousness of diseased soft tissues and the quasi-incompressible condition. The proposed nonlinear elimination method adaptively finds a small number of equations causing the nonlinear stagnation  and then eliminates them from the global nonlinear system. By using the theory of affine invariance of Newton's method, we provide insight about why the nonlinear elimination method can improve the convergence of Newton iterations. Our numerical results show that the combination of nonlinear elimination with an initial guess interpolated from a coarse level solution can lead to a uniform convergence for Newton iterations for this class of very difficult nonlinear problems."
@@ -36,7 +36,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "/files/paper-draft/2018NE-Gong-Cai.pdf"
+url_pdf = "https://doi.org/10.1137/18M1194936"
 url_preprint = "" 
 url_code = "https://github.com/Psywah/anisotropy-elasticity"
 url_dataset = ""
