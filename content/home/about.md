@@ -36,6 +36,7 @@ weight = 5
 +++
 
 # Biography
-My research interests include scientific computing, mixed finite element methods, domain decomposition methods, multigrid methods and the nonlinearly preconditioned Newton methods. Now I am working with <a href="http://people.bath.ac.uk/masigg/"> Ivan Graham</a> and <a href="http://people.bath.ac.uk/eas25/">Euan Spence</a> on fast solvers for frequency-domain wave-scattering problems.
+I obtained my bachelor’s degree in mathematics from Sun Yat-sen University in 2013 and PhD degree from Peking University in 2018. Then I had been a postdoctoral scholar at Pennsylvania State University. Now I am working with <a href="http://people.bath.ac.uk/masigg/"> Ivan Graham</a> and <a href="http://people.bath.ac.uk/eas25/">Euan Spence</a> on fast solvers for frequency-domain wave-scattering problems.
 
 
+My research interests include scientific computing and numerical analysis, mainly focusing on finite element methods, domain decomposition methods, and the nonlinearly preconditioned Newton methods.
