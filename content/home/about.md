@@ -36,7 +36,6 @@ weight = 5
 +++
 
 # Biography
-I obtained my bachelor’s degree in mathematics from Sun Yat-sen University in 2013 and PhD degree from Peking University in 2018. Then I had been a postdoctoral scholar at Pennsylvania State University. Now I am working with <a href="http://people.bath.ac.uk/masigg/"> Ivan Graham</a> and <a href="http://people.bath.ac.uk/eas25/">Euan Spence</a> on fast solvers for frequency-domain wave-scattering problems.
+I obtained my bachelor’s degree from Sun Yat-sen University in 2013 and PhD degree in computational mathematics from Peking University in 2018. Before joining the Chinese University of Hong Kong (Shenzhen), I worked as a postdoctoral scholar mentored by <a href="http://www.personal.psu.edu/jxx1/">Prof. Jinchao Xu</a> at Pennsylvania State University (2018-2019), and then as a research associate mentored by <a href="http://people.bath.ac.uk/masigg/">Prof. Ivan Graham</a> and <a href="http://people.bath.ac.uk/eas25/">Prof. Euan Spence</a>at the University of Bath (2019-2021). 
 
-
-My research interests include scientific computing and numerical analysis, mainly focusing on finite element methods, domain decomposition methods, and the nonlinearly preconditioned Newton methods.
+My research interests include scientific computing and numerical analysis, mainly focusing on finite element, domain decomposition methods, and preconditioning techniques.

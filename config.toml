@@ -40,16 +40,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Shihua Gong"
-  role = "Research Associate"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Bath", url = "http://bath.ac.uk" } ]
+  organizations = [ { name = "Chinese University of Hong Kong (Shenzhen)", url = "https://www.cuhk.edu.cn" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "" #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sg2328@bath.ac.uk"
-  address = "4W 3.35"
+  email = "gongshihua@cuhk.edu.cn"
+  address = ""
   office_hours = ""# "Tu&Th 3:00 to 4:00pm or email for appointment"
   phone = "" #"+1 814 699 2380"
   telegram = ""
@@ -84,8 +84,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "51.379894"
-  longitude = "-2.327964"
+  latitude = "22.688112"
+  longitude = "114.209985"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -206,7 +206,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sg2328@bath.ac.uk"
+    link = "mailto:gongshihua@cuhk.edu.cn"
 
   [[params.social]]
     icon = "google-scholar"
@@ -261,7 +261,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "/files/cv.pdf"
+  url = ""#"/files/cv.pdf"
   weight = 100
 
 # Taxonomies.
