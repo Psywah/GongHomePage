@@ -15,6 +15,9 @@ weight = 60
 
 +++
 
+- Lecturer, Calculus II, CUHK-Shenzhen, Jan-May 2023
+- Lecturer, Topics in Scientific Computing, CUHK-Shenzhen, Sept-Dec 2022
+- Lecturer, Functional Analysis, CUHK-Shenzhen, Jan-May 2022
 - Tutor, Programming and discrete mathematics, University of Bath, Jan-May 2021
 - Teaching Assistant, Finite Element Methods, Pennsylvania State University, Aug-Dec 2018
 - Teaching Assistant, Introduction to Fluid Mechanics, Peking University, Mar-Jul 2015
