@@ -36,6 +36,8 @@ weight = 5
 +++
 
 # Biography
-I obtained my bachelor’s degree from Sun Yat-sen University in 2013 and PhD degree in computational mathematics from Peking University in 2018. Before joining the Chinese University of Hong Kong (Shenzhen), I worked as a postdoctoral scholar at Pennsylvania State University (2018-2019), and then as a research associate at the University of Bath (2019-2021). My research interests include scientific computing and numerical analysis, mainly focusing on finite element, domain decomposition methods, and preconditioning techniques.
+I obtained my bachelor’s degree from Sun Yat-sen University in 2013 and PhD degree in computational mathematics from Peking University in 2018. Before joining the Chinese University of Hong Kong (Shenzhen), I worked as a postdoctoral scholar at Pennsylvania State University (2018-2019), and then as a research associate at the University of Bath (2019-2021). 
+
+My research interests include scientific computing and numerical analysis, mainly focusing on finite element, domain decomposition methods, and preconditioning techniques.
 
 If you are looking for PhD/postdoc position and interested in numerical PDE, please send your CV to gongshihua [AT] cuhk [dot] edu [dot] cn.
