@@ -15,6 +15,7 @@ weight = 60
 
 +++
 
+- Lecturer, Topics in Scientific Computing, CUHK-Shenzhen, Jan-May 2025
 - Lecturer, Linear Algebra, CUHK-Shenzhen, Aug-Dec 2024
 - Lecturer, Calculus II, CUHK-Shenzhen, Jan-May 2024
 - Lecturer, Numerical Methods for Differential Equations, CUHK-Shenzhen, Jan-May 2024
